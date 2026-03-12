@@ -7,6 +7,7 @@ from urllib import request
 MSG: Final = [
 	"https://consumerrights.wiki/w/Google_blocking_sideloading_of_unverified_Android_apps",
 	"https://keepandroidopen.org/",
+	"https://keepandroidopen.org/open-letter",
 	# UT/DR brainrot
 	"gluegle... I remember you're... SLAVERY",
 	# get roasted lol

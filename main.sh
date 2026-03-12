@@ -5,6 +5,7 @@ IFS='
 
 msg="https://consumerrights.wiki/w/Google_blocking_sideloading_of_unverified_Android_apps
 https://keepandroidopen.org/
+https://keepandroidopen.org/open-letter
 gluegle... I remember you're... SLAVERY
 https://www.jwz.org/xscreensaver/google.html
 "
